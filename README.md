@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/103194717/215429553-e8fa5e0e-e2a0-4315-ad03-6c592a944aeb.png)
+
 # 데이콘 포디블록 구조 추출 AI 경진대회
 2D 이미지 기반 블록 구조 추출 AI 모델 개발
 </br></br>
