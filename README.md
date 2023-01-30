@@ -1,4 +1,4 @@
-# 포디블록 구조 추출 AI 경진대회
+# 데이콘 포디블록 구조 추출 AI 경진대회
 2D 이미지 기반 블록 구조 추출 AI 모델 개발
 </br></br>
 
@@ -16,13 +16,14 @@ EfficientNet_B0
 </br></br>
 
 ## Process
-- 다양한 방법론의 CV model 학습
-- Model의 Process와 깊은 구조에 대한 이해
-- Dataset과 training의 중요성
-- Model Generalization의 어려움
+- Background Removal
+- Compose new Backgound
+- Augmentation
+- Multi-label KFOLD
 </br></br>
 
 ## Result
-
-</br></br>
-
+||Public|Private|
+|---|---|---|
+|Score|0.93196|0.92612|
+|Place|67th|68th|
